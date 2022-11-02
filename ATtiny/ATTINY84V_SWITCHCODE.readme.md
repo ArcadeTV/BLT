@@ -35,7 +35,7 @@ Compile with Arduino IDE (select ATtinyCore as board) or your favorite AVR toolk
 
 | PIN      | Function                                                                 |
 | -------- | ------------------------------------------------------------------------ |
-| BUTTON  | Connect a switch to GND. No external pull-up or hardware-debounce        |needed.
+| BUTTON  | Connect a switch to GND. No external pull-up or hardware-debounce needed. |
 | RESET   | Send a reset signal for 150ms to an active-high system.                  |
 | !RESET  | Send a reset signal for 150ms to an active-low system.                   |
 | LED-R   | Connect a red LED pin with common-cathode via an appropriate resistor.   |
