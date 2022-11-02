@@ -44,7 +44,7 @@ Populate the pcb after programming the ATtiny microcontroller.
 Connect the lines coming from your supergun or jamma harness to the pads
 marked with IN. Connect the button-lines to the pads marked OUT.
 Connect a switch to the toggler-pad on the upper right of the pcb that
-connects to GND upon being pressed.
+connects temporary to GND upon being pressed.
 Install a 2-color-LED as you see fit. (Adjust R1 and R2 according to your LED specs)
 
 ```
