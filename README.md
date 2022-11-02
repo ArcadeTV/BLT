@@ -2,7 +2,7 @@
 ### v20221101
 #### ArcadeTV
 
-![BLT pcb](https://github.com/[ArcadeTV]/[BLT]/blob/[main]/blt_brd.png?raw=true)
+![BLT pcb](https://github.com/ArcadeTV/BLT/blob/main/blt_brd.png?raw=true)
 
 | Part | Value            | Device           | Package             |
 | ---- | ---------------- | ---------------- | ------------------- |
