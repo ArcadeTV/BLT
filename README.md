@@ -34,7 +34,8 @@ Please mind that the ATtiny84 microcontroller needs to be programmed
 with the provided hex file.
 
 #### PCB
-Use the provided gerber files to order your pcb from your favorite manufacturer.
+Use the provided gerber files to order your pcb from your favorite manufacturer,
+e.g. (OSH Park)[https://oshpark.com/shared_projects/dgzMkW6Z]
 Eagle source files for editing also exist in this repository.
 
 #### Installation
