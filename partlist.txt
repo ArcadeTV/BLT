@@ -1,0 +1,16 @@
+BLT (Button Layout Toggler)
+v20221101
+ArcadeTV
+
+
+Part     Value               Device              Package             Library          Sheet
+
+CB1      100nF               C-USC0805           C0805               rcl              1
+CB2      100nF               C-USC0805           C0805               rcl              1
+CB3      100nF               C-USC0805           C0805               rcl              1
+D1                           DUOLED2X5           DUOLED2X5           led              1
+IC1      74HC4066D           74HC4066D           SOIC127P600X175-14N 74HC4066D        1
+IC2      74HC4066D           74HC4066D           SOIC127P600X175-14N 74HC4066D        1
+IC3      ATTINY84V-10SSUR    ATTINY84V-10SSUR    SOIC127P600X175-14N ATTINY84V-10SSUR 1
+R1       220                 R-US_R0805          R0805               rcl              1
+R2       220                 R-US_R0805          R0805               rcl              1
